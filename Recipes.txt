@@ -13,3 +13,7 @@ i had known all these technologies like
    bootstrap
    angular
    node js
+
+
+asp.net
+reactjs
